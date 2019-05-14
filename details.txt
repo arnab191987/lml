@@ -1,0 +1,3 @@
+database : khabar24_lml
+User : khabar24_lml
+Pass : khabar24_lml
